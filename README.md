@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently studying at [Software University](https://softuni.bg)
 
-- 🌱 I’m currently learning **C#,MS SQL, JS, HTML & CSS**
+- 🌱 I’m currently learning **C#, MS SQL, JS, HTML & CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/stilyan122](https://github.com/stilyan122)
 
