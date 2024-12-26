@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stilyan</h1>
-<h3 align="center">A passionate C# student</h3>
+<h3 align="center">A passionate C# developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stilyan122&label=Profile%20views&color=0e75b6&style=flat" alt="stilyan122" /> </p>
 
@@ -7,9 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently studying at [Software University](https://softuni.bg)
+- 🔭 I have graduated at [Software University](https://softuni.bg)
 
-- 🌱 I’m currently learning **C#, MS SQL, JS, HTML & CSS, ASP.NET Core, React**
+![Diploma for Back-End Software Engineer with C#](https://github.com/user-attachments/assets/20769027-0608-404f-93fb-0529b1f5c201)
+
+![Diploma for C# Full-Stack Developer](https://github.com/user-attachments/assets/d271b3e4-b3f2-4319-8921-dc36ca24e82c)
+
+- 🌱 I’m currently developing with **C#, MS SQL, JS, HTML & CSS, ASP.NET Core, React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/stilyan122](https://github.com/stilyan122)
 
