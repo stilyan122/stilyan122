@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I have graduated at [Software University](https://softuni.bg)
-- 🌱 I’m currently developing with **C#, MS SQL, JS, HTML & CSS, ASP.NET Core, React**
+- 🌱 I’m currently developing with **C#, MS SQL, JS, HTML & CSS, ASP.NET Core, React, Python, Jypyter Lab**
 - 👨‍💻 All of my projects are available at [https://github.com/stilyan122](https://github.com/stilyan122)
 - 📫 How to reach me **stilyanchanev@gmail.com**
 
